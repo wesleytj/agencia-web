@@ -7,7 +7,7 @@ Agencia Web é um projeto pessoal onde coloco em prática meus conhecimentos de 
 	* HTML
 	* CSS
 	* JS
-* Responsividade **- em espera**
+* Responsividade **- em progresso**
 	* Todos os dispositivos 
 * Back-end **- em espera**
 	* PHP
@@ -16,5 +16,5 @@ Agencia Web é um projeto pessoal onde coloco em prática meus conhecimentos de 
 ## Previsão de conclusão
 2021-10-22 ÀS 12:00 AM
 
-@author: Wesley Jacques
-@company: All Technology
+@author: <br>Wesley Jacques
+@company: <br>All Technology
