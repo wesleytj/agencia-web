@@ -16,5 +16,5 @@ Agencia Web é um projeto pessoal onde coloco em prática meus conhecimentos de 
 ## Previsão de conclusão
 2021-10-22 ÀS 12:00 AM
 
-@author: <br>Wesley Jacques
-@company: <br>All Technology
+@author: Wesley Jacques <br>
+@company: All Technology
